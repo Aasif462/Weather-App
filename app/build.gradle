@@ -32,6 +32,14 @@ android {
 }
 
 dependencies {
+    implementation 'com.google.android.gms:play-services-location:19.0.1'
+
+    // Eliminate Find View By Id
+    apply plugin :'kotlin-android'
+    apply plugin :'kotlin-android-extensions'
+
+    //Dexter for Permissions
+    implementation 'com.karumi:dexter:6.2.3'
 
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.4.1'
