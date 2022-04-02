@@ -3,8 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/close.xml" value="0.2425" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/cloud.xml" value="0.2425" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/humidity.xml" value="0.2425" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/location.xml" value="0.2425" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/rain.xml" value="0.2425" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/snowflake.xml" value="0.2425" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/storm.xml" value="0.2425" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/sunny.xml" value="0.2425" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/sunrise.xml" value="0.2425" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/sunset.xml" value="0.2425" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/temperature.xml" value="0.2425" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/drawable/wind.xml" value="0.2425" />
         <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
         <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/layout/progress_dialog.xml" value="0.23645833333333333" />
+        <entry key="..\:/Android from Start to End/WeatherApp/app/src/main/res/menu/menu.xml" value="0.23645833333333333" />
       </map>
     </option>
   </component>
