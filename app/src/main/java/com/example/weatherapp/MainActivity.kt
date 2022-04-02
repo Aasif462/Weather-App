@@ -241,6 +241,8 @@ class MainActivity : AppCompatActivity() {
                 name.text = weatherList.sys.country
                 nameTxt.text = weatherList.name
 
+                degree.text = weatherList.main.humidity.toString()
+
                 when(weatherList.weather[i].icon){
                     "01d" -> snowFlake.setImageResource(R.drawable.sunny)
                     "02d" -> snowFlake.setImageResource(R.drawable.cloud)
